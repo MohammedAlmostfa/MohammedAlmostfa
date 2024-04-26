@@ -1,4 +1,4 @@
-![image](https://github.com/MohammedAlmostfa/MohammedAlmostfa/assets/146775849/aecf0d50-4b0a-44a0-ab10-ee60539b2053)<h1 align="center">Hi 👋, I'm Mohammed Almostfa</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Almostfa</h1>
 <h3 align="center">I am a student at the Faculty of Computer & Automation Engineering and trained as a data scientist and backend developer(Laravel) from Syria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalmostfa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmostfa" /> </p>
