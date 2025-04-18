@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Almostfa</h1>
-<h3 align="center">I am a student at the Faculty of Computer & Automation Engineering and  and backend developer (Laravel) from Syria.</h3>
+
+<h3 align="center">
+  I’m a Back-End Web Developer with over a year of hands-on experience building dynamic and 
+  robust web applications using PHP, Laravel, and MySQL. 
+  Proficient in applying SOLID principles and best practices in web security, I deliver 
+  high-performance solutions aligned with technical and business objectives.
+  Passionate about continuous learning and staying up-to-date with the latest technologies to ensure project success.
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohammedalmostfa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmostfa" /> 
@@ -11,12 +18,15 @@
   </a>
 </p>
 
-- 🌱 I’m currently working as a backend developer freelancer with **Laravel**.
+---
+
+- 🌱 I’m currently working as a freelance backend developer using **Laravel**.  
 - 📫 How to reach me: **mohammedalmostfa36@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/mohammed-almostfa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed almostfa" height="30" width="40" />
@@ -29,6 +39,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
@@ -39,32 +50,47 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
-
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+  </a>
 </p>
 
 ---
 
+<h3 align="left">🛠️ Projects & Experience:</h3>
+
+- ✅ **Internship at [Focal X](https://focal-x.com/)**  
+  Contributed to Laravel-based web applications, focusing on backend logic, API development, and MySQL optimization.
+
+- 📦 [Ecommerce Admin Panel](https://github.com/MohammedAlmostfa/ecommerce-admin)  
+  Laravel admin dashboard for managing users, products, orders, and categories.
+
+- 🧮 [Data Science Practice](https://github.com/MohammedAlmostfa?tab=repositories&q=data)  
+  Small projects in Python using Pandas, Matplotlib, and Scikit-learn for EDA and ML basics.
+
+> 🔗 Check all my repositories [here](https://github.com/MohammedAlmostfa?tab=repositories)
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedalmostfa&show_icons=true&locale=en&layout=compact" alt="mohammedalmostfa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedalmostfa&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedalmostfa&show_icons=true&locale=en" alt="mohammedalmostfa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedalmostfa&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalmostfa&" alt="mohammedalmostfa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalmostfa&" alt="GitHub Streak" />
 </p>
