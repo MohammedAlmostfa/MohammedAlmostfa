@@ -64,22 +64,7 @@
   </a>
 </p>
 
----
 
-<h3 align="left">🛠️ Projects & Experience:</h3>
-
-- ✅ **Internship at [Focal X](https://focal-x.com/)**  
-  Contributed to Laravel-based web applications, focusing on backend logic, API development, and MySQL optimization.
-
-- 📦 [Ecommerce Admin Panel](https://github.com/MohammedAlmostfa/ecommerce-admin)  
-  Laravel admin dashboard for managing users, products, orders, and categories.
-
-- 🧮 [Data Science Practice](https://github.com/MohammedAlmostfa?tab=repositories&q=data)  
-  Small projects in Python using Pandas, Matplotlib, and Scikit-learn for EDA and ML basics.
-
-> 🔗 Check all my repositories [here](https://github.com/MohammedAlmostfa?tab=repositories)
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
