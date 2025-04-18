@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Almostfa</h1>
-<h3 align="center">I am a student at the Faculty of Computer & Automation Engineering and trained as a data scientist and backend developer (Laravel) from Syria.</h3>
+<h3 align="center">I am a student at the Faculty of Computer & Automation Engineering and  and backend developer (Laravel) from Syria.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohammedalmostfa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmostfa" /> 
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning backend **Laravel**  
+- 🌱 I’m currently working as a backend developer freelancer with **Laravel**.
 - 📫 How to reach me: **mohammedalmostfa36@gmail.com**
 
 ---
