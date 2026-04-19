@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Almostfa</h1>
 
 <h3 align="center">
-  I'm a passionate Back-End Web Developer with over a year of hands-on experience in building robust and scalable web applications using PHP, Laravel, and MySQL.  
+  I'm a passionate Back-End Web Developer with over 2 years of hands-on experience in building robust and scalable web applications using PHP, Laravel, and MySQL.  
   I focus on writing clean, secure, and maintainable code while following SOLID principles and modern development standards.  
   I’m always exploring new technologies and aiming to deliver impactful digital solutions that align with business goals.
 </h3>
+
+<p align="center">
+  <a href="https://mohammedalmostfa.github.io/Portfolio2/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedalmostfa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmostfa" />
@@ -14,9 +20,10 @@
 
 ## 🚀 About Me
 
-- 🔧 I’m currently working as a freelance **Laravel** backend developer.  
-- 📬 Reach me at: **mohammedalmostfa36@gmail.com**  
-- 📘 Always learning and improving my skills in **API development**, **security**, and **clean architecture**.
+* 🔧 I’m currently working as a freelance **Laravel** backend developer
+* 🌐 Portfolio: **https://mohammedalmostfa.github.io/Portfolio2/**
+* 📬 Reach me at: **[mohammedalmostfa36@gmail.com](mailto:mohammedalmostfa36@gmail.com)**
+* 📘 Continuously improving my skills in **API development**, **security**, and **clean architecture**
 
 ---
 
