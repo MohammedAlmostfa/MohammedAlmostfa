@@ -193,26 +193,7 @@ Graduation Project:
 
 ---
 
-## 📜 Training & Professional Development
 
-### Focal X — Backend Development Level 2
-
-**4 Months · 2024–2025**
-
-* Backend Development
-* PHP
-* Laravel
-* REST APIs
-* Database Development
-* Backend Architecture
-
-**Score: 90%**
-
-### Focal X — Front-End Development Level 1
-
-**Score: 95.96%**
-
----
 
 ## 🌐 Portfolio
 
